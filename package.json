@@ -1,5 +1,5 @@
 {
-    "name": "AVI-CRASH 2.0",
+    "name": "avi",
     "version": "5.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "main.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "AVI",
+    "author": "avi",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
